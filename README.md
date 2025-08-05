@@ -63,8 +63,6 @@ cd TitanNode-AUTO
 pip install -r requirements.txt #or pip3 install -r requirements.txt
 ```
 
-> Pastikan Anda sudah membuat file `requirements.txt` di repositori Anda.
-
 ### 3. Konfigurasi Akun
 
 Buat file baru bernama `accounts.json` di dalam direktori proyek, lalu isi dengan data akun Anda:
